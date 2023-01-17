@@ -29,7 +29,7 @@ LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
 LOCAL_PACKAGE_NAME := RevampedFMRadio
 
-LOCAL_OVERRIDES_PACKAGES := FMRadio
+LOCAL_OVERRIDES_PACKAGES := FMRadio FM2
 
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
